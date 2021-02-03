@@ -2,7 +2,7 @@
   "author": "Bacterial Meningitis Lab @ CDC/DDID/NCIRD/MVPDB",
   "dependencies": {
     "archiver-promise": "^1.0.0",
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.7.2",
     "body-parser": "^1.18.3",
     "child_process": "^1.0.2",
     "express": "^4.16.4",
