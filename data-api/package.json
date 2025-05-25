@@ -15,7 +15,7 @@
     "mongoose": "^5.5.12",
     "mongoose-paginate": "^5.0.3",
     "morgan": "^1.9.1",
-    "multer": "^1.4.2",
+    "multer": "^2.0.0",
     "nice-json2csv": "^0.2.2",
     "pkginfo": "^0.4.1",
     "swagger-jsdoc": "^3.4.0",
